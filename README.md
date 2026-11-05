@@ -20,10 +20,10 @@ TensorFlow/Keras, OpenCV and Kivy.
 - **Updated for Keras 3, NumPy 2 and OpenCV 4** – fixed several compatibility errors.
 
 ## Results
-| | Match rate |
-|---|---|
-| Owner | ~58% | |Verified|
-| Other people | ~0% | |Unverified|
+| | Match rate | |Status|
+|---|---|---|
+| Owner | ~58% | Verified |
+| Other people | ~0% | Unverified |
 
 ## How to run
 1. `pip install -r requirements.txt` (Python 3.x)
