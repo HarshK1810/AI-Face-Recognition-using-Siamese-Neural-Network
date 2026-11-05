@@ -19,11 +19,10 @@ TensorFlow/Keras, OpenCV and Kivy.
 - **Batched verification** – all comparisons in one prediction call, much faster.
 - **Updated for Keras 3, NumPy 2 and OpenCV 4** – fixed several compatibility errors.
 
-## Results
-| | Match rate |
+| Person | Average match rate | Result |
 |---|---|---|
-| Owner | ~58% | 
-| Other people | ~0% |
+| Owner | ~55% | Verified |
+| Other people | 0% | Unverified |
 
 ## How to run
 1. `pip install -r requirements.txt` (Python 3.x)
