@@ -1,0 +1,6 @@
+tensorflow
+opencv-python<5
+numpy
+matplotlib
+kivy[full]
+Python 3.11.0

@@ -1,0 +1,19 @@
+# Face images (private)
+data/
+data_face/
+application_data/
+archive/
+*.jpg
+*.jpeg
+python 3.8/
+*.zip
+
+# Model files (too large for GitHub)
+*.h5
+*.keras
+training_checkpoints/
+
+# Environments and cache
+venv/
+venv312/
+__pycache__/
